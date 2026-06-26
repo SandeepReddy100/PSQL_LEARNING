@@ -1,4 +1,4 @@
-# PostgreSQL Mastery Guide & Reference Repository
+# PostgreSQL Mastery Guide & Reference Repository LL
 
 A comprehensive, categorized reference repository containing structured notes, commands, and advanced queries for PostgreSQL. This repository is designed to serve as a complete revision guide and a practical blueprint for integrating relational database architecture into modern backend workflows.
 
